@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainFragment"
+        android:icon="@drawable/best"
+        android:title="TOP VISIT"/>
+
+    <item
+        android:id="@+id/secondaryFragment"
+        android:icon="@drawable/worst"
+        android:title="WORST VISIT"/>
+
+    <item
+        android:id="@+id/bookingFragment"
+        android:icon="@drawable/ic_baseline_book_online_24"
+        android:title="BOOKING"/>
+
+
+    <item
+        android:id="@+id/NoteExitFragment"
+        android:icon="@drawable/about"
+        android:title="ABOUT"/>
+
+</menu>
