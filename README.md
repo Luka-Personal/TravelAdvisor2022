@@ -3,7 +3,7 @@
 Want to know where to travel? you are in right hands, check out my app, it lists top countries to visit :))
 
 
-Date Finished 12/25/2021 - Слава Украине!
+Date Finished 12/25/2021 - Слава Україні!
 
 Created by - Luka Tsinaridze, Languages used - Kotlin
 
